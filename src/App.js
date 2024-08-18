@@ -340,55 +340,57 @@ function App() {
                           I started with as a Bank Services officer back in
                           2020... But now Im really into web dev.
                         </div>
-                        
                       </div>
                       <div className="space-y-4">
                         <span className="rounded-md bg-quaternary py-2 px-6 font-bold text-secondary">
-                        Skills and Expertise
+                          Skills and Expertise
                         </span>
                         <div className="font-bold">Languages: </div>
                         <div className="text-tertiary">
-                        HTML5, CSS3, JavaScript (ES6+).
+                          HTML5, CSS3, JavaScript (ES6+).
                         </div>
-                        <div className="font-bold">Frameworks & Libraries: </div>
+                        <div className="font-bold">
+                          Frameworks & Libraries:{" "}
+                        </div>
                         <div className="text-tertiary">
-                        React.js, Vue.js, Bootstrap, Tailwind CSS.
+                          React.js, Vue.js, Bootstrap, Tailwind CSS.
                         </div>
                         <div className="font-bold">Tools & Platforms: </div>
                         <div className="text-tertiary">
-                        Git, Webpack, Figma, Adobe XD.
+                          Git, Webpack, Figma, Adobe XD.
                         </div>
                         <div className="font-bold">Responsive Design: </div>
                         <div className="text-tertiary">
-                        Mobile-first approach, cross-browser compatibility.
+                          Mobile-first approach, cross-browser compatibility.
                         </div>
                         <div className="font-bold">Optimization: </div>
                         <div className="text-tertiary">
-                        Performance tuning, SEO-friendly coding.
+                          Performance tuning, SEO-friendly coding.
                         </div>
-                        
-                      </div> 
+                      </div>
                       <div className="space-y-4">
                         <span className="rounded-md bg-quaternary py-2 px-6 font-bold text-secondary">
                           E-Commerce
                         </span>
                         <div className="font-bold">Shopify Development: </div>
                         <div className="text-tertiary">
-                        Store setup, theme customization, Shopify Plus.
+                          Store setup, theme customization, Shopify Plus.
                         </div>
                         <div className="font-bold">Theme Development: </div>
                         <div className="text-tertiary">
-                        Custom themes using Liquid, HTML5, CSS3, and JavaScript.
+                          Custom themes using Liquid, HTML5, CSS3, and
+                          JavaScript.
                         </div>
-                        <div className="font-bold">Payment Gateways & Checkout: </div>
+                        <div className="font-bold">
+                          Payment Gateways & Checkout:{" "}
+                        </div>
                         <div className="text-tertiary">
-                        Integration and customization of payment options and checkout flows.
+                          Integration and customization of payment options and
+                          checkout flows.
                         </div>
-                        
                       </div>
-                      
                     </div>
-                    
+
                     <div className="mt-8 flex-1 md:mt-0">
                       <div className="relative">
                         <img
@@ -419,13 +421,13 @@ function App() {
               {/* <!-- Section Title --> */}
               <div className="inline-flex gap-2 font-open-sans text-xl font-bold">
                 <div className="before:text-secondary before:content-['<'] after:text-secondary after:content-['/>']">
-                Featured Projects
+                  Featured Projects
                 </div>
               </div>
               {/* <!-- End Section Title --> */}
             </div>
             <div className="mb-10 flex-1 font-open-sans leading-relaxed text-tertiary md:w-1/2 lg:w-2/5">
-              These are some of the cool projects I have done. 
+              These are some of the cool projects I have done.
             </div>
             <div className="mb-10 flex-1 md:w-1/2 lg:w-2/5">
               <div className="flex flex-wrap gap-3 font-poppins sm:gap-6">
