@@ -528,7 +528,7 @@ function App() {
               >
                 <img
                   className="h-full w-full rounded-2xl border-transparent bg-secondary object-cover object-center"
-                  src="./assets/img/portfolio/portfolio2.png"
+                  src="https://res.cloudinary.com/dvvanf54x/image/upload/v1724007427/Lumiere_Single_Product_Store_Community_txlgpm.png"
                   alt="Post"
                 />
               </a>
@@ -537,17 +537,16 @@ function App() {
                   <div className="flex-1 space-y-8">
                     <div className="space-y-8 font-poppins text-primary">
                       <div className="text-3xl font-semibold">
-                        360 Generator
+                        E-commerce
                       </div>
-                      <div>Blender Script</div>
+                      <div>Store</div>
                       <div>
-                        Blender script that generates 5x images around a 3D
-                        model.
+                        
                       </div>
                     </div>
                     <div className="flex items-center justify-between gap-6 md:justify-start">
                       <a
-                        href="https://github.com/llo7d/3D-Model-Showcase"
+                        href="https://github.com/saqibrao47/MyBlog"
                         target="_blank"
                         rel="noreferrer"
                         className="inline-flex items-center rounded-lg bg-tertiary py-2 px-3 font-poppins text-sm before:content-['<'] after:content-['>'] hover:bg-quaternary hover:text-secondary"
@@ -591,9 +590,9 @@ function App() {
             <div className="w-full flex-none md:w-2/5 lg:w-3/5">
               {/* <!-- Social Card --> */}
               <div className="mx-8 grid grid-cols-2 gap-10 md:mx-0">
-                {/* <!-- Githu Card --> */}
+                {/* <!-- Github Card --> */}
                 <a
-                  href="https://github.com/llo7d"
+                  href="https://github.com/saqibrao47"
                   target="_blank"
                   rel="noreferrer"
                   className="group col-span-2 rounded-xl bg-quinary py-10 px-6 hover:bg-senary/10 lg:py-12"
@@ -621,7 +620,7 @@ function App() {
                         Github
                       </div>
                       <div className="break-words text-quaternary">
-                        https://github.com/llo7d
+                      https://github.com/saqibrao47
                       </div>
                     </div>
                   </div>
@@ -670,7 +669,7 @@ function App() {
                         LinkedIn
                       </div>
                       <div className="break-words text-quaternary">
-                        https://linkedin.com/llo7d
+                      https://www.linkedin.com/in/saqib-tufail778/
                       </div>
                     </div>
                   </div>
@@ -679,7 +678,7 @@ function App() {
 
                 {/* <!-- Twitter Card --> */}
                 <a
-                  href="https://twitter.com/llo7d"
+                  href="https://x.com/saqibrao778"
                   target="_blank"
                   rel="noreferrer"
                   className="group col-span-2 rounded-xl bg-quinary py-10 px-6 hover:bg-senary/10 lg:col-span-1 lg:py-12"
@@ -707,7 +706,7 @@ function App() {
                         Twitter
                       </div>
                       <div className="break-words text-quaternary">
-                        https://twitter.com/llo7d
+                      https://x.com/saqibrao778
                       </div>
                     </div>
                   </div>
@@ -727,8 +726,8 @@ function App() {
       {/* Footer  */}
       <footer className="relative mx-auto my-20 h-full w-full">
         <div className="flex justify-center">
-          <span className="font-open-sans text-xl text-primary text-quaternary before:content-['©']">
-            Peter LIoyd 2023
+          <span className="font-open-sans text-xl text-primary text-quaternary">
+            SaqibRao@{new Date ().getFullYear()}
           </span>
         </div>
       </footer>
