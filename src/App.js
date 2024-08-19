@@ -223,7 +223,7 @@ function App() {
               </span>
             </div>
             <div className="inline-flex flex-wrap justify-center text-2xl sm:text-4xl">
-              A Front-End Developer
+              A Front-End
               <div className="text-secondary">-</div>
               Developer
             </div>
